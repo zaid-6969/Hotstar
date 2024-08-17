@@ -160,6 +160,9 @@ left: 0px;
     right: 0px;
 
 }
+.main-page img{
+    object-fit:cover;
+}
 
 .banner-overla-1 {
     width: 100%;
