@@ -339,7 +339,7 @@ left: 0px;
     position: relative;
     display: flex;
     width: 100%;
-    height: 400px;
+    height: 300px;
     
 
 
@@ -360,15 +360,17 @@ left: 0px;
     position: absolute;
     top: 7%;
     display: flex;
+    height: 280px;
     flex-direction: row;
     overflow-y: scroll;
     scrollbar-width: none;
+    align-items: center;
 }
 .img-1{
     margin: 3px;
     /* padding-top: 20px;
     padding-bottom: 20px; */
-    height: 230px;
+    height: 200px;
     display: inline-block;
     border-radius: 5px;
 }
@@ -394,11 +396,11 @@ left: 0px;
  /* MAVIE PAGE 2 */
 
  .movies-2{
-    margin-top: -130px;
+    /* margin-top: -130px; */
     position: relative;
     display: flex;
     width: 100%;
-    height: 400px;
+    height: 300px;
     
 
 
@@ -422,14 +424,16 @@ left: 0px;
     flex-direction: row;
     overflow-y: scroll;
     scrollbar-width: none;
+    align-items: center;
+    height: 280px;
 }
 .img-2{
     margin: 3px;
     /* padding-top: 20px;
     padding-bottom: 20px; */
-    height: 230px;
     display: inline-block;
     border-radius: 5px;
+    height: 200px;
 }
 
 ::-webkit-scrollbar{
@@ -450,11 +454,11 @@ left: 0px;
 
 
 .movies-3{
-    margin-top: -135px;
+    /* margin-top: -135px; */
     position: relative;
     display: flex;
     width: 100%;
-    height: 400px;
+    height: 300px;
 
 
 }
@@ -477,12 +481,14 @@ left: 0px;
     flex-direction: row;
     overflow-y: scroll;
     scrollbar-width: none;
+    align-items: center;
+    height: 280px;
 }
 .img-3{
     margin: 3px;
     /* padding-top: 20px;
     padding-bottom: 20px; */
-    height: 230px;
+    height: 200px;
     display: inline-block;
     border-radius: 5px;
 }
@@ -503,11 +509,10 @@ left: 0px;
 
 
 .movies-4{
-    margin-top: -135px;
     position: relative;
     display: flex;
     width: 100%;
-    height: 400px;
+    height: 350px;
 
 
 }
@@ -531,13 +536,15 @@ left: 0px;
     flex-direction: row;
     overflow-y: scroll;
     scrollbar-width: none;
+    align-items: center;
+    height: 280px;
     
 }
 .img-4{
     margin: 3px;
     /* padding-top: 20px;
     padding-bottom: 20px; */
-    height: 230px;
+    height: 200px;
     display: inline-block;
     border-radius: 5px;
     overflow: hidden;
